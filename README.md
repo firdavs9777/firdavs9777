@@ -3,17 +3,13 @@
 - 🌱 저는 현재 리액트 네이티브와 플러터를 공부하고 있습니다.
 - 💞️ 저는 vue, react native, 그리고 flutter 개발자들과 협업하고 싶어요.
 - 📫 저에게 연락하고싶으면 http://davedevportfolio.com/ 에서 저를 찾아볼 수 있고, 전화번호는 01059373725요. 감사합니다.
-
-
+<br>
 - 👋 Hi, I’m Firdavs Mutalipov you can call me Davis. 
 - 👀 I’m interested in web programming and app programming. I have a solid knowledge in front-end development and now focusing on app development and backend development.
 - 🌱 I’m currently learning react native and flutter. 
 - 💞️ I’m looking to collaborate on vue, react native and flutter developers
 - 📫 How to reach me ... you can reach me at http://davedevportfolio.com/ and Phone Number: 01059373725. Thank you.
-
-
-
-
+<br>
 
 <!---
 firdavs9777/firdavs9777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
